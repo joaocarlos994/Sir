@@ -1,0 +1,40 @@
+body{
+    background-color: #082032 !important;
+}
+
+.navbar,
+.footer{
+    background-color: #2C394B;
+}
+
+.navbar .loginbtn,
+.navbar .loginbtn:hover{
+    background-color: #FF4C29;
+    border-width: 0;
+    font-weight: bold;
+}
+
+.splitcontent{
+    height: 5px;
+    background-color: #334756;
+    width: 100%;
+}
+
+.card .ultra{
+    background-color: #FF4C29 !important;
+}
+
+.enabled{
+    color: #FF4C29 !important;
+    border-color: #FF4C29 !important;
+}
+
+.enabled:hover{
+    background-color: #FF4C29 !important;
+    color: #fff !important;
+}
+
+.disabled{
+    background-color: #FF4C29 !important;
+    border-color: #FF4C29 !important;
+}
